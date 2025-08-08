@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://nikhilkmr.dev/_next/image?url=%2Fhero-avatar.png&w=640&q=75" width="200" height="200" style="border-radius: 50%;" alt="Nikhil Kumar Avatar" />
-</p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=10nikhil01&label=Profile%20views&color=0e75b6&style=flat" alt="10nikhil01" /> </p>
 
 <h1 align="center">Hi 👋 I'm Nikhil Kumar</h1>
